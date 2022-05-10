@@ -1,2 +1,1 @@
-# AprendiendoJava
-Primeros pasos con Java
+# Aprendiendo_Java
